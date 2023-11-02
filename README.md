@@ -1,4 +1,4 @@
-![javascript-logo-svgrepo-com](https://github.com/mtsioni/mtsioni/assets/95755182/1599e3e1-ce9f-4c66-9fdd-8309cb200430)# Hello 👋 ! I'm Maria!
+# Hello 👋 ! I'm Maria!
 
 ## A Software Development Enthusiast & Aspirasionist from Greece
 
