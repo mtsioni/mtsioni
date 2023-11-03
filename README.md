@@ -7,6 +7,8 @@
  
  <img src="https://github.com/mtsioni/mtsioni/assets/95755182/ef2af4f7-7e67-4149-86a2-440f39c44375" height="20" width="20"> I like working on personal applications and learning various CS & IT technologies. 
 
+ <img src= "https://github-readme-stats.vercel.app/api?username=mtsioni&&show_icons=true&theme=dracula">
+
 
 ### 📍 Programming Languages
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/cc688d18-a939-491d-8eb6-5f67229b0f59" height="50" width="50">
