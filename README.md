@@ -18,3 +18,10 @@
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/cc26ae72-8194-4adf-aace-1bb68672b98d" height="50" width="50">
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/1e57fb88-896a-4184-b04a-7ecb3402c1ca" height="50" width="50">
 
+<p align="center">
+  <i> Socials & More </i>
+
+  <p align="center">
+    <a href="https://www.linkedin.com" alt="LinkedIn"><img src="https://user-images.githubusercontent.com/48293545/158461410-b3eac57a-095f-4cc8-8fa4-917542d71f39.svg" height="18"></a> 	&nbsp;
+  </p>
+
