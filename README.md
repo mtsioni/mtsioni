@@ -20,6 +20,8 @@
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/cc26ae72-8194-4adf-aace-1bb68672b98d" height="50" width="50">
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/1e57fb88-896a-4184-b04a-7ecb3402c1ca" height="50" width="50">
 
+---
+
 <p align="center">
   <i> Socials & More </i>
 
