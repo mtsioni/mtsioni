@@ -1,6 +1,6 @@
-# Hello 🦥🍂 ! I'm Thalia-Maria!
+# Hello 🦥🍂! I'm Thalia-Maria!
 
-📍 a Software Development Enthusiast from SKG 🇬🇷
+📍 A Software Development Enthusiast from SKG 🇬🇷
 
 
  <img src="https://github.com/mtsioni/mtsioni/assets/95755182/4158f237-953c-4830-9d5c-49f81a921899" height = "20" width = "20"> Currently studying independently to pursue a career in Software Development & Engineering.
@@ -26,7 +26,7 @@
   <i> Socials & More </i>
 
   <p align="center">
-    <a href="https://www.linkedin.com/in/thalia-maria-tsioni-316067299/" alt="LinkedIn"><img src="https://user-images.githubusercontent.com/48293545/158461410-b3eac57a-095f-4cc8-8fa4-917542d71f39.svg" height="18"></a> 	&nbsp;
+    <a href="https://www.linkedin.com/in/thalia-maria-tsioni-316067299/" alt="LinkedIn"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="35"></a> 	&nbsp;
   </p>
 
   <p align=center><img src="https://user-images.githubusercontent.com/65610526/174794535-cdcfd380-610d-4d73-8d27-27b81dd11b1d.gif" height="35"></p>
