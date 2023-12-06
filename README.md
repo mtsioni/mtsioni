@@ -12,6 +12,9 @@
 
 ### 📍 Programming Languages
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/cc688d18-a939-491d-8eb6-5f67229b0f59" height="50" width="50">
+<img src="https://github.com/mtsioni/mtsioni/assets/95755182/4fd093e2-453e-4254-960b-d675236c8956" height="50" width="50">
+
+
 
 ### 📍 Front End Technologies & Tools
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/ca6c9795-cec3-4a9a-8c78-2dafed996648" height="50" width="50">
@@ -19,6 +22,8 @@
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/94881769-b914-416b-aa4f-b5afbf4fb02b" height="50" width="50">
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/cc26ae72-8194-4adf-aace-1bb68672b98d" height="50" width="50">
 <img src="https://github.com/mtsioni/mtsioni/assets/95755182/1e57fb88-896a-4184-b04a-7ecb3402c1ca" height="50" width="50">
+<img src="https://github.com/mtsioni/mtsioni/assets/95755182/1e0999df-caa5-46ca-b4a3-098a695710cd" height="50" width="50">
+
 
 ---
 
